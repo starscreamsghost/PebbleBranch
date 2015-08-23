@@ -1,0 +1,39 @@
+{
+    "appKeys": {
+        "KEY_CONDITIONS": 1,
+        "KEY_TEMPERATURE": 0
+    },
+    "capabilities": [
+        "location"
+    ],
+    "companyName": "donCo Enterprises",
+    "longName": "vacation",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/2palmTreeS.png",
+                "name": "IMAGE_PALM_TREE",
+                "type": "png"
+            },
+            {
+                "file": "fonts/COMICATE.TTF",
+                "name": "FONT_COMICATE_20",
+                "type": "font"
+            },
+            {
+                "file": "fonts/COMICATE.TTF",
+                "name": "FONT_COMICATE_48",
+                "type": "font"
+            }
+        ]
+    },
+    "sdkVersion": "2",
+    "shortName": "vacation",
+    "uuid": "62abe320-afbc-41dd-b958-826e61743c00",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
