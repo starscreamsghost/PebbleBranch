@@ -3,42 +3,21 @@
     "capabilities": [
         ""
     ],
-    "companyName": "donCo",
-    "longName": "autoBots",
+    "companyName": "donryan222@gmail.com",
+    "longName": "project_Scorpio",
     "projectType": "native",
     "resources": {
         "media": [
             {
-                "file": "fonts/perfect-dos-vga.ttf",
-                "name": "PERFECT_FONT_BOLD_18",
+                "file": "fonts/COMICATE.TTF",
+                "name": "FONT_COMICATE_48",
                 "type": "font"
-            },
-            {
-                "file": "fonts/perfect-dos-vga.ttf",
-                "name": "PERFECT_FONT_BOLD_48",
-                "type": "font"
-            },
-            {
-                "file": "fonts/perfect-dos-vga.ttf",
-                "name": "PERFECT_FONT_BOLD_36",
-                "type": "font"
-            },
-            {
-                "file": "fonts/perfect-dos-vga.ttf",
-                "name": "PERFECT_FONT_BOLD_24",
-                "type": "font"
-            },
-            {
-                "file": "images/Transformers_Autobot.png",
-                "menuIcon": true,
-                "name": "AUTOBOT_IMAGE",
-                "type": "png"
             }
         ]
     },
     "sdkVersion": "2",
-    "shortName": "autoBots",
-    "uuid": "3f66cb71-5482-4106-becf-61c67256701a",
+    "shortName": "project_Scorpio",
+    "uuid": "2068b7d5-3801-48f0-b0e2-cc39b558ecf1",
     "versionCode": 1,
     "versionLabel": "1.0",
     "watchapp": {
