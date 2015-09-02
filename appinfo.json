@@ -1,13 +1,26 @@
 {
-    "appKeys": {},
+    "appKeys": {
+        "KEY_CONDITIONS": 1,
+        "KEY_TEMPERATURE": 0
+    },
     "capabilities": [
-        ""
+        "location"
     ],
-    "companyName": "donryan222@gmail.com",
-    "longName": "project_Scorpio",
+    "companyName": "donCo Enterprises",
+    "longName": "vacation",
     "projectType": "native",
     "resources": {
         "media": [
+            {
+                "file": "images/2palmTreeS.png",
+                "name": "IMAGE_PALM_TREE",
+                "type": "png"
+            },
+            {
+                "file": "fonts/COMICATE.TTF",
+                "name": "FONT_COMICATE_20",
+                "type": "font"
+            },
             {
                 "file": "fonts/COMICATE.TTF",
                 "name": "FONT_COMICATE_48",
@@ -16,8 +29,8 @@
         ]
     },
     "sdkVersion": "2",
-    "shortName": "project_Scorpio",
-    "uuid": "2068b7d5-3801-48f0-b0e2-cc39b558ecf1",
+    "shortName": "vacation",
+    "uuid": "62abe320-afbc-41dd-b958-826e61743c00",
     "versionCode": 1,
     "versionLabel": "1.0",
     "watchapp": {
