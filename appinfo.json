@@ -1,0 +1,32 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "donryan222@gmail.com",
+    "longName": "StormTrooper",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/bt-icon.png",
+                "name": "IMAGE_BTicon",
+                "type": "png"
+            },
+            {
+                "file": "images/stormTrooper.png",
+                "menuIcon": true,
+                "name": "IMAGE_STORMTROOPER",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "2",
+    "shortName": "StormTrooper",
+    "uuid": "cc5deb00-6aa7-42cf-82e0-438421a05a51",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
