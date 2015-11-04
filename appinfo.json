@@ -1,0 +1,27 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "donryan222@gmail.com",
+    "longName": "WhiteVader",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/VADER.png",
+                "menuIcon": true,
+                "name": "IMAGE_Vader",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "2",
+    "shortName": "WhiteVader",
+    "uuid": "04a49108-5f2a-49fd-b2a2-2931406c522c",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
